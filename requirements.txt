@@ -1,4 +1,6 @@
-# This is an implicit value, here for clarity
+# This is an implicit value, here for clarity -
+# Read more here:
+# https://caremad.io/posts/2013/07/setup-vs-requirement/
 --index-url https://pypi.python.org/simple/
 
 -e .
