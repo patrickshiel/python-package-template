@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 here = abspath(dirname(__file__))
 
 # Get the long description from the README file
-with open(join(here, 'README.md'), encoding='utf-8') as f:
+with open(join(here, 'README.rst'), encoding='utf-8') as f:
     README = f.read()
 
 install_requires = [
