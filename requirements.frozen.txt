@@ -1,0 +1,18 @@
+bleach==3.1.0
+certifi==2019.11.28
+chardet==3.0.4
+docutils==0.15.2
+idna==2.8
+keyring==20.0.0
+pkginfo==1.5.0.1
+Pygments==2.5.2
+-e git+git@github.com:patrickshiel/python-package-template.git@3afa075e65c25a05f2dcb63e6dfb27a26f6b7be0#egg=pyprojecttemplate
+pywin32-ctypes==0.2.0
+readme-renderer==24.0
+requests==2.22.0
+requests-toolbelt==0.9.1
+six==1.13.0
+tqdm==4.40.2
+twine==3.1.1
+urllib3==1.25.7
+webencodings==0.5.1
