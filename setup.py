@@ -13,7 +13,7 @@ install_requires = [
 ]
 
 setup(
-    name='pytemplate',
+    name='pyprojecttemplate',
     version="0.1.0",
     description="Example Project Structure for a Python / PyPI Project",
     long_description=README,
@@ -31,8 +31,5 @@ setup(
     python_requires='>=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*, <4',
     include_package_data=True,
     zip_safe=False,
-    install_requires=install_requires,
-    entry_points={
-        'console_scripts': ['pytemplate = pytemplate:main']
-    }
+    install_requires=install_requires
 )
