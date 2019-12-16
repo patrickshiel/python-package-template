@@ -14,7 +14,7 @@ install_requires = [
 
 setup(
     name='pyprojecttemplate',
-    version="0.1.0",
+    version="0.2.0",
     description="Example Project Structure for a Python / PyPI Project",
     long_description=README,
     classifiers=[
