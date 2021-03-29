@@ -5,7 +5,7 @@ docutils==0.15.2
 idna==2.8
 keyring==20.0.0
 pkginfo==1.5.0.1
-Pygments==2.5.2
+Pygments==2.7.4
 -e git+git@github.com:patrickshiel/python-package-template.git@3afa075e65c25a05f2dcb63e6dfb27a26f6b7be0#egg=pyprojecttemplate
 pywin32-ctypes==0.2.0
 readme-renderer==24.0
